@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-13T22:00:51 EST" name="Default suite" finished-at="2021-01-13T22:00:53 EST" duration-ms="2393">
+    <groups>
+    </groups>
+    <test started-at="2021-01-13T22:00:51 EST" name="Default test" finished-at="2021-01-13T22:00:53 EST" duration-ms="2393">
+      <class name="local_api_test.Post_Method_Test_03">
+        <test-method signature="post_Test_01(java.lang.Object, java.lang.Object, java.lang.Object)[pri:0, instance:local_api_test.Post_Method_Test_03@18ce0030]" started-at="2021-01-13T22:00:52 EST" name="post_Test_01" data-provider="DataForPost" finished-at="2021-01-13T22:00:53 EST" duration-ms="1543" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FirstName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LastName]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[SubjectId]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_Test_01 -->
+        <test-method signature="post_Test_01(java.lang.Object, java.lang.Object, java.lang.Object)[pri:0, instance:local_api_test.Post_Method_Test_03@18ce0030]" started-at="2021-01-13T22:00:53 EST" name="post_Test_01" data-provider="DataForPost" finished-at="2021-01-13T22:00:53 EST" duration-ms="19" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Alok]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Barman]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_Test_01 -->
+        <test-method signature="post_Test_01(java.lang.Object, java.lang.Object, java.lang.Object)[pri:0, instance:local_api_test.Post_Method_Test_03@18ce0030]" started-at="2021-01-13T22:00:53 EST" name="post_Test_01" data-provider="DataForPost" finished-at="2021-01-13T22:00:53 EST" duration-ms="19" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Deepa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_Test_01 -->
+        <test-method signature="post_Test_01(java.lang.Object, java.lang.Object, java.lang.Object)[pri:0, instance:local_api_test.Post_Method_Test_03@18ce0030]" started-at="2021-01-13T22:00:53 EST" name="post_Test_01" data-provider="DataForPost" finished-at="2021-01-13T22:00:53 EST" duration-ms="25" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nrityam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Argha]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_Test_01 -->
+        <test-method signature="post_Test_01(java.lang.Object, java.lang.Object, java.lang.Object)[pri:0, instance:local_api_test.Post_Method_Test_03@18ce0030]" started-at="2021-01-13T22:00:53 EST" name="post_Test_01" data-provider="DataForPost" finished-at="2021-01-13T22:00:53 EST" duration-ms="41" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Alok]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_Test_01 -->
+        <test-method signature="post_Test_01(java.lang.Object, java.lang.Object, java.lang.Object)[pri:0, instance:local_api_test.Post_Method_Test_03@18ce0030]" started-at="2021-01-13T22:00:53 EST" name="post_Test_01" data-provider="DataForPost" finished-at="2021-01-13T22:00:53 EST" duration-ms="35" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Barman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Argha]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_Test_01 -->
+      </class> <!-- local_api_test.Post_Method_Test_03 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
